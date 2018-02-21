@@ -1,7 +1,9 @@
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
-
+/*
+CODE WRITTEN BY RITWIK SHANKER
+ */
 public class BankAccountApp
 {
     public static void main(String args[]) throws IOException
