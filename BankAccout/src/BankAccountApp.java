@@ -32,7 +32,7 @@ public class BankAccountApp
                 System.out.println("ERROR READING ACCOUNT TYPE");
             }
         }
-        accounts.get(5).showInfo();
+        //accounts.get(5).showInfo();
         for (Account acc:accounts)
         {
             System.out.println("\n********************************");
